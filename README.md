@@ -1,6 +1,7 @@
 # 💫 About Me:
-🌟 Aspiring Web Designer & Front-End Developer  <br>- 🎓 Currently a 2nd-year Web Development student in France.  <br>- 🎨 Passionate about design and user experience.  <br>- 💻 Tech Stack: HTML, CSS, JavaScript, and exploring React and Tailwind.  <br>- 🌱 Learning: **Sass**, **GSAP**, and **Figma**.  <br>- 🔭 Working on: A dynamic portfolio and a minimalist web app.
 <img align="rigth" alt="gif" width="400" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif">
+🌟 Aspiring Web Designer & Front-End Developer  <br>- 🎓 Currently a 2nd-year Web Development student in France.  <br>- 🎨 Passionate about design and user experience.  <br>- 💻 Tech Stack: HTML, CSS, JavaScript, and exploring React and Tailwind.  <br>- 🌱 Learning: **Sass**, **GSAP**, and **Figma**.  <br>- 🔭 Working on: A dynamic portfolio and a minimalist web app.<br><br>And I love league of legend :)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/keddaaa) 
